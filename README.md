@@ -9,4 +9,8 @@ The aim is to develope skills and knowledge that could help in realizing electro
 •	Project Management and working in Team
 •	Documentation and Presentation
 •	Effective time management
+Management Board:
+Product Manager: Onyesi John Abiagam 
+Quality Assurance Engineer: Nnaemeka Valentine Eze
+Operations Manager: Manoj Luitel👑
 
