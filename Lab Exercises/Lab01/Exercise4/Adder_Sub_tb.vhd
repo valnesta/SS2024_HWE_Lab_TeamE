@@ -2,7 +2,7 @@ library IEEE;
 use IEEE.std_logic_1164.all;
 
 entity addsub_tb is
--- Testbench has no ports
+
 end addsub_tb;
 
 architecture behavior of addsub_tb is
@@ -26,7 +26,7 @@ architecture behavior of addsub_tb is
     signal output : bit_vector(3 downto 0);
 
 begin
-    -- to Instantiate the Unit Under Test (UUT)
+    -- Instantiation 
     uut: addsub
         port map (
             A => A,
