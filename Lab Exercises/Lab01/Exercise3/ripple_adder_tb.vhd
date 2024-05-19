@@ -43,9 +43,5 @@ wait;
  
 end process;
 
---
---A_tb <= "0000", "0001" after 100 ns, "0010" after 200 ns;
---B_tb <= "1111";
- 
  
 END;
