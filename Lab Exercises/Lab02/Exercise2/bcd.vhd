@@ -21,7 +21,7 @@ architecture behavioral of BCD_to_Seg is
 		when "1000" => Segment  <= "1111111";
 		when "1001" => Segment  <= "1101111";
 		when others => Segment <= "1111111";
-      end case;
+        end case;
   end process;
 end behavioral;
 
